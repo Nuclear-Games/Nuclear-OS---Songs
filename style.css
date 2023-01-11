@@ -35,10 +35,10 @@ audio{
   align-items: center;
   border-radius: 20px 20px 0 0;
   justify-content: center;
-  background: linear-gradient(-140deg, rgb(255, 104, 255) , rgb(255, 124, 124));
+  background: #f1f1f1;
 }
 
 .head{
-  color: #fff;
+  color: #000;
   font-weight: bolder;
 }
